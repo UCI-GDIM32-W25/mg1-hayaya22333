@@ -10,5 +10,4 @@ My completed game project included the 4 object identified in the MG1 break-down
 [itch.io HTML build](https://hayaya22333.itch.io/mg1)
 
 ## Open-Source Assets
-If you added any other outside assets, list them here!
 - [Sprout Lands sprite asset pack](https://cupnooble.itch.io/sprout-lands-asset-pack) - character and item sprites
